@@ -4,7 +4,8 @@
   "description": "",
   "source": "src/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel src/index.html",
+    "build": "rm -f dist/* && parcel build src/index.html"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/variable-fonts-ojohnson1/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/variable-fonts-ojohnson1#readme"
+  "homepage": "https://github.com/RVCC-IDMX/variable-fonts-ojohnson1#readme",
+  "main": "index.js",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2",
+    "parcel": "^2.3.2",
+    "sass": "^1.49.8"
+  }
 }
