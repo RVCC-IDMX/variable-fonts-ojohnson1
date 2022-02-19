@@ -1,0 +1,20 @@
+{
+  "name": "variable-fonts-ojohnson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/variable-fonts-ojohnson1.git"
+  },
+  "keywords": [],
+  "author": "Olivia Johnson <G00287836@stu.raritanval.edu> (https://github.com/RVCC-IDMX/sass-page-ojohnson1.git)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/variable-fonts-ojohnson1/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/variable-fonts-ojohnson1#readme"
+}
